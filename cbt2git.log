@@ -1,0 +1,6 @@
+2023-08-06 06:45:12.519200 - Initialized conversion of CBT728
+2023-08-06 06:45:12.544990 - Received CBT.V505.FILE728.PDS from FILE728.XMI 
+2023-08-06 06:45:12.547123 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE728.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:45:12.548154 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE728.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:45:12.549197 - Found @FILE728.txt (text/plain) in CBT.V505.FILE728.PDS, moved to PDS/@FILE728
+2023-08-06 06:45:12.550121 - Found ICHPWX01.jcl (text/plain) in CBT.V505.FILE728.PDS, moved to PDS/ICHPWX01
